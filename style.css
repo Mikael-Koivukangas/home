@@ -17,13 +17,12 @@ html {
 header {
     background-color: #8f0326;
     padding: 0;
-}
-
 h1 {
     font: 'MonaSans-Regular';
     font-size: 28px;
     font-color: #ffffff
     margin-bottom: 10px;
+}
 }
 
 body {
