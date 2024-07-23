@@ -24,7 +24,6 @@ header {
     background-color: #8f0326;
     padding: 0;
     margin-left: 5%;
-    font-family: 'Mona Sans';
 }
 
 #header {
@@ -36,14 +35,13 @@ header {
     background-color: #8f0326;
     opacity: 0.8;
     z-index: 1;
-    font-family: 'Mona Sans';
 }
 
 h1 {
     font-color: #ffffff
     font-size: 28px;
     margin-bottom: 10px;
-    font-family: 'Mona Sans';
+    font: 'MonaSans-Regular';
 }
 nav ul {
   list-style-type: square;
