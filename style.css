@@ -21,7 +21,7 @@ header {
 h1 {
     font-family: 'Mona Sans';
     font-size: 28px;
-    font-color: #ffffff
+    font-color: white;
     margin-bottom: 10px;
 }
 }
@@ -29,13 +29,13 @@ h1 {
 body {
     background-color: f2f2f2;
     font-family: 'Mona Sans';
-    font-color: #333;
+    font-color: #black;
     margin-left: 10%;
 }
 
 p {
 font-family: 'Mona Sans';
-font-color: #333;
+font-color: #black;
 }
 
 /* unvisited link */
