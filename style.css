@@ -38,10 +38,10 @@ header {
 }
 
 h1 {
-    font-color: #ffffff
-    font-size: 28px;
-    margin-bottom: 10px;
     font: 'MonaSans-Regular';
+    font-size: 28px;
+    font-color: #ffffff
+    margin-bottom: 10px;
 }
 nav ul {
   list-style-type: square;
