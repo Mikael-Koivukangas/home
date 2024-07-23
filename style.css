@@ -45,27 +45,27 @@ font-color: #black;
 
 /* unvisited link */
 a:link {
-  color: yellow;
+  color: black;
 }
 
 /* visited link */
 a:visited {
-  color: yellow;
+  color: grey;
 }
 
 /* mouse over link */
 a:hover {
-  color: white;
+  color: #cfcfcf;
 }
 
 /* selected link */
 a:active {
-  color: white;
+  color: #cfcfcf;
 }
 
 nav ul {
   list-style-type: square;
     color: #333
-    font-size: 12px;
+    font-size: 10px;
     font-family: 'Mona Sans';
 }
