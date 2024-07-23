@@ -34,10 +34,11 @@ header {
 h1 {
     color:ffffff
     font-size: 28px;
+    font-family: 'Mona Sans';
     margin-bottom: 10px;
 }
 nav ul {
   list-style-type: square;
-    font-size: 1rem;
+    font-size: 12px;
     font-family: 'Mona Sans';
 }
