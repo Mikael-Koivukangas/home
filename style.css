@@ -44,6 +44,12 @@ div {
   line-height: normal;
 }
 
+img {
+  padding: 25px;
+  border: 0px;
+  margin: 0px;
+}
+
 p {
 color: #333;
 font-family: 'Mona Sans';
