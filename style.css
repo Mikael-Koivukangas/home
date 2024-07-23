@@ -10,9 +10,6 @@ body, h1, h2, p, ul, li {
   font-weight: 200 900;
   font-stretch: 75% 125%;
 }
-html {
-    font-family: 'Mona Sans'
-}
 
 header {
     background-color: #8f0326;
