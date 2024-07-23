@@ -7,6 +7,10 @@
   font-stretch: 75% 125%;
 }
 
+html {
+  font-family: 'Mona Sans';
+}
+
 body, h1, h2, p, ul, li {
     margin-left:0;
     padding: 0;
