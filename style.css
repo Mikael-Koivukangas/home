@@ -19,17 +19,6 @@ header {
     padding: 0;
 }
 
-#header {
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    width: 50%;
-    height: 100%;
-    background-color: #8f0326;
-    opacity: 0.8;
-    z-index: 1;
-}
-
 h1 {
     font: 'MonaSans-Regular';
     font-size: 28px;
