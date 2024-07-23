@@ -50,6 +50,12 @@ font-family: 'Mona Sans';
 font-color: #333;
 }
 
+a {
+    color: yellow;
+    font-family: 'Mona Sans';
+    font-style: bold;
+}
+
 nav ul {
   list-style-type: square;
     color: #333
