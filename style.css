@@ -39,6 +39,10 @@ body {
     margin-left: 10%;
 }
 
+div {
+  line-height: normal;
+}
+
 p {
 font-family: 'Mona Sans';
 color: #333;
@@ -69,8 +73,4 @@ nav ul {
     color: #333
     font-size: 10px;
     font-family: 'Mona Sans';
-}
-
-div {
-  line-height: normal;
 }
