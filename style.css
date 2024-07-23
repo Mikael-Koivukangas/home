@@ -18,12 +18,13 @@ body, h1, h2, p, ul, li {
 header {
     background-color: #8f0326;
     padding: 0;
+}
+
 h1 {
     font-family: 'Mona Sans';
     font-size: 28px;
     font-color: white;
     margin-bottom: 10px;
-}
 }
 
 body {
