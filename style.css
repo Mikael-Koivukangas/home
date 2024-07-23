@@ -17,7 +17,6 @@ html {
 header {
     background-color: #8f0326;
     padding: 0;
-    margin-left: 5%;
 }
 
 #header {
@@ -50,10 +49,24 @@ font-family: 'Mona Sans';
 font-color: #333;
 }
 
-a {
-    color: yellow;
-    font-family: 'Mona Sans';
-    font-style: bold;
+/* unvisited link */
+a:link {
+  color: yellow;
+}
+
+/* visited link */
+a:visited {
+  color: grey;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
 }
 
 nav ul {
