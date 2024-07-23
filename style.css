@@ -1,5 +1,5 @@
 body, h1, h2, p, ul, li {
-    margin-left:4%;
+    margin-left:10%;
     padding: 0;
 }
 @font-face {
@@ -33,13 +33,14 @@ header {
 }
 
 h1 {
-    color:ffffff
+    color: #ffffff
     font-size: 28px;
     font-family: 'Mona Sans';
     margin-bottom: 10px;
 }
 nav ul {
   list-style-type: square;
+    color: #333
     font-size: 12px;
     font-family: 'Mona Sans';
 }
