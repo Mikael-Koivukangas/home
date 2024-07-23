@@ -52,12 +52,14 @@ padding-top: -5%;
 
 /* unvisited link */
 a:link {
-  color: black;
+  color: green;
+  font-weight: bold;
 }
 
 /* visited link */
 a:visited {
-  color: grey;
+  color: green;
+  font-weight: bold;
 }
 
 /* mouse over link */
