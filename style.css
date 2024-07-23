@@ -70,3 +70,7 @@ nav ul {
     font-size: 10px;
     font-family: 'Mona Sans';
 }
+
+div {
+  line-height: normal;
+}
