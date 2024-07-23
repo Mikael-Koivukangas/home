@@ -41,12 +41,13 @@ body {
 }
 
 div {
-  line-height: 90%;
+  line-height: normal;
 }
 
 p {
 color: #333;
 font-family: 'Mona Sans';
+margin-top: -10%;
 }
 
 /* unvisited link */
