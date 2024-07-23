@@ -13,12 +13,6 @@ body, h1, h2, p, ul, li {
 html {
     font-family: 'Mona Sans'
 }
-body {
-    background-color: f2f2f2;
-    font-family: 'Mona Sans';
-    font-color: #333;
-    margin-left: 10%;
-}
 
 header {
     background-color: #8f0326;
@@ -43,6 +37,19 @@ h1 {
     font-color: #ffffff
     margin-bottom: 10px;
 }
+
+body {
+    background-color: f2f2f2;
+    font-family: 'Mona Sans';
+    font-color: #333;
+    margin-left: 10%;
+}
+
+p {
+font-family: 'Mona Sans';
+font-color: #333;
+}
+
 nav ul {
   list-style-type: square;
     color: #333
