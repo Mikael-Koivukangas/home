@@ -19,7 +19,7 @@ header {
     background-color: #8f0326;
     font-family: 'Mona Sans';
     font-size: 28px;
-    font-color: #white;
+    color: #c2c2c2;
     margin-bottom: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -28,13 +28,13 @@ header {
 body {
     background-color: f2f2f2;
     font-family: 'Mona Sans';
-    font-color: #black;
+    color: #333;
     margin-left: 10%;
 }
 
 p {
 font-family: 'Mona Sans';
-font-color: #black;
+color: #333;
 }
 
 /* unvisited link */
