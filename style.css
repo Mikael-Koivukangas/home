@@ -1,21 +1,21 @@
-body, h1, h2, p, ul, li {
-    margin-left:0;
-    padding: 0;
-}
 @font-face {
   font-family: 'Mona Sans';
   src:
-    url('MonaSans-Regular.woff2') format('woff2 supports variations'),
-    url('MonaSans-Regular.woff2') format('woff2-variations');
+    url('Mona-Sans.woff2') format('woff2 supports variations'),
+    url('Mona-Sans.woff2') format('woff2-variations');
   font-weight: 200 900;
   font-stretch: 75% 125%;
 }
 
+body, h1, h2, p, ul, li {
+    margin-left:0;
+    padding: 0;
+}
 header {
     background-color: #8f0326;
     padding: 0;
 h1 {
-    font: 'MonaSans-Regular';
+    font-family: 'Mona Sans';
     font-size: 28px;
     font-color: #ffffff
     margin-bottom: 10px;
