@@ -12,10 +12,10 @@ html {
 }
 
 header {
+    color: #c2c2c2;
     background-color: #8f0326;
     font-family: 'Mona Sans';
     font-size: 28px;
-    color: #c2c2c2;
     margin-bottom: 0;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -34,9 +34,9 @@ h2 {
     padding-top: 20px;
 }
 body {
+    color: #333;
     background-color: #f2f2f2;
     font-family: 'Mona Sans';
-    color: #333;
     padding-left: 10%;
 }
 
@@ -45,8 +45,8 @@ div {
 }
 
 p {
-font-family: 'Mona Sans';
 color: #333;
+font-family: 'Mona Sans';
 }
 
 /* unvisited link */
