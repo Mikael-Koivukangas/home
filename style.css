@@ -19,6 +19,9 @@ header {
     background-color: #8f0326;
     padding: 20px; 
     text-align: left;
+    font-family: 'Mona Sans';
+    font-size: 32px;
+    color: #ffffff;
 } 
  
 h1 {
