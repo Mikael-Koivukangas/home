@@ -54,10 +54,6 @@ body {
     padding-left: 10%;
 }
 
-div {
-  line-height: normal;
-}
-
 img {
   padding: 25px;
   border: 0px;
@@ -65,20 +61,20 @@ img {
 }
 
 p {
-color: #333;
+color: ##e6e6e6;
 font-family: 'Mona Sans';
 padding-top: -5%;
 }
 
 /* unvisited link */
 a:link {
-  color: green;
+  color: #90ff61;
   font-weight: bold;
 }
 
 /* visited link */
 a:visited {
-  color: green;
+  color: #90ff61;
   font-weight: bold;
 }
 
