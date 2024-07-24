@@ -17,10 +17,15 @@ html {
 
 header {
     background-color: #8f0326;
-    display: flex;
-    margin-bottom: 0;
-    padding: 1rem 1.5rem;
-    max-width: 1440px;
+    padding: 20px; 
+    text-align: center; 
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
+} 
+ 
+h1 { 
+  margin: 0; 
+} 
 }
 
 h1 {
