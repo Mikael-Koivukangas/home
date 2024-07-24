@@ -26,14 +26,12 @@ header {
   background-color: #525252;    
   text-align: left;
   max-width: 720px;
-  padding-bottom: 10px;
 }
 
 .p1 {
   max-width:      700px;
   padding-left:   10px;
   padding-right:  10px;
-  padding-bottom: 10px;
 }
  
 h1 {
@@ -57,15 +55,12 @@ body {
 }
 
 img {
-  padding: 25px;
-  border: 0px;
-  margin: 0px;
+  margin: 15px;
 }
 
 p {
 color: #e6e6e6;
 font-family: 'Mona Sans';
-padding-top: -5%;
 }
 
 /* unvisited link */
