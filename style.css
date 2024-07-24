@@ -26,7 +26,7 @@ header {
   background-color: #525252;    
   text-align: left;
   max-width: 720px;
-  padding-bottom: 15px;
+  ;
 }
 
 .p1 {
@@ -49,7 +49,7 @@ h2 {
     padding-top: 20px;
 }
 body {
-    color: #333;
+    color: #e6e6e6;
     background-color: #ADADAD;
     font-family: 'Mona Sans';
     padding-left: 10%;
@@ -62,7 +62,7 @@ img {
 }
 
 p {
-color: ##e6e6e6;
+color: #e6e6e6;
 font-family: 'Mona Sans';
 padding-top: -5%;
 }
