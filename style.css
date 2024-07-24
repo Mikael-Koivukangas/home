@@ -22,7 +22,7 @@ header {
 } 
 
 .div1 {
-  border: 5px #8f0326;
+  border: 5px outset #8f0326;
   background-color: #525252;    
   text-align: left;
   max-width: 720px;
