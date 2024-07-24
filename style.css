@@ -12,15 +12,18 @@ html {
 }
 
 header {
-    color: #ffffff;
     background-color: #8f0326;
-    font-family: 'Mona Sans';
-    font-size: 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     margin-bottom: 0;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left:15px;
+    padding: 1rem 1.5rem;
+    max-width: 1440px;
+    margin: 0 auto;
+    border-radius: 0 0 0.5rem 0.5rem;
+    gap: 2rem;
 }
+
 h1 {
     font-family: 'Mona Sans';
     font-size: 32px;
