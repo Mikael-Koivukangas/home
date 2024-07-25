@@ -7,6 +7,8 @@
   font-stretch: 75% 125%;
 }
 
+/*I'm trying to make the header look like the lip of a folder*/
+
 header {
     background-color: #8f0326;
     max-width: 200px;
@@ -17,9 +19,11 @@ header {
     padding: 15px;
 } 
 
+/*  */
+
 .div1 {
   border: 5px solid #8f0326;
-  background-color: #525252;    
+  background-color: #787878;    
   text-align: left;
   max-width: 720px;
 }
