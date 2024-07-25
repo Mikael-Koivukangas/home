@@ -7,10 +7,6 @@
   font-stretch: 75% 125%;
 }
 
-html {
-  font-family: 'Mona Sans';
-}
-
 header {
     background-color: #8f0326;
     max-width: 200px;
@@ -31,6 +27,7 @@ header {
   max-width:      700px;
   padding-left:   10px;
   padding-right:  10px;
+  font-family: 'Mona Sans';
 }
  
 h1 {
